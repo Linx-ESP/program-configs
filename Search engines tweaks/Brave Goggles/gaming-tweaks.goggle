@@ -1,0 +1,9 @@
+! name: Linx - Gaming Tweaks
+! description: Addon to tweak some results related to gaming
+! public: true
+! author: LinxESP
+! avatar: #ea3e0f
+
+! Terraria Oficial wiki instead of fandom
+$discard,site=terraria.fandom.com
+$boost=3,site=terraria.wiki.gg
