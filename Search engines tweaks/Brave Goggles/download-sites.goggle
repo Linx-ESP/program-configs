@@ -1,0 +1,13 @@
+! name: Linx - Gaming Tweaks
+! description: Remove some shitty download sites
+! public: true
+! author: LinxESP
+! avatar: #ea3e0f
+
+! Terraria Oficial wiki instead of fandom
+$discard,site=terraria.fandom.com
+$discard,site=*.uptodown.*
+$discard,site=*.softonic.*
+$discard,site=*.aptoide.*
+$discard,site=*.apkcombo.*
+$discard,site=*.malavida.*
