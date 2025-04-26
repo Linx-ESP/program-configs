@@ -4,6 +4,6 @@
 ! author: LinxESP
 ! avatar: #ea3e0f
 
-! Terraria Oficial wiki instead of fandom
-$discard,site=terraria.fandom.com
-$boost=4,site=terraria.wiki.gg
+! For antifandom wikis use IndieWikiBuddy
+$boost=3,site=sinjohruins.com
+$boost=2,site=www.briankoponen.com
