@@ -1,14 +1,15 @@
-! name: Linx - Repost downloaders
-! description: Remove some shitty download sites
+! name: SEO abusers - Reuploaders or ads
+! description: Remove some shitty download sites and similar
 ! public: true
 ! author: LinxESP
 ! avatar: #ea3e0f
 
-! Terraria Oficial wiki instead of fandom
-$discard,site=terraria.fandom.com
+! Bad reuploaders
 $discard,site=*.uptodown.com
 $discard,site=*.softonic.com
 $discard,site=*.aptoide.com
 $discard,site=*.apkcombo.com
 $discard,site=*.malavida.com
+
+! When you search "Can you do X?" and the answer is no but these are sites that say NO but pay us for magic beans or something
 $discard,site=*.playbite.com
