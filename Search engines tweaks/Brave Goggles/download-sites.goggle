@@ -11,3 +11,4 @@ $discard,site=*.softonic.*
 $discard,site=*.aptoide.*
 $discard,site=*.apkcombo.*
 $discard,site=*.malavida.*
+$discard,site=*.playbite.com
