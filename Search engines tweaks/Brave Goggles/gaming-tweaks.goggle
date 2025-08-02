@@ -3,12 +3,30 @@
 ! public: true
 ! author: LinxESP
 ! avatar: #ea3e0f
+! homepage: https://github.com/Linx-ESP/program-configs
+! issues: https://github.com/Linx-ESP/program-configs/issues
+! license: GNU AGPL-3.0
 
-! For antifandom wikis use IndieWikiBuddy
+! For antifandom wikis better use IndieWikiBuddy
+! Fandom generic derank, not discard because not everything has a wiki outside fandom
+$downrank=1,site=fandom.com
+! Alternative wiki generic boost
+$boost=1,site=wiki.gg
+$boost=1,site=miraheze.org
+
+! Terraria
+$boost=3,site=terraria.wiki.gg
+$discard,site=terraria.fandom.com
 
 ! Pokemon
 $boost=3,site=sinjohruins.com
 $boost=3,site=lyra-made-a.website
 
 ! Simracing
-$boost=2,site=www.briankoponen.com
+$boost=1,site=briankoponen.com
+$boost=2,site=community.lemansultimate.com
+
+
+! Minecraft
+$boost=2,site=gtnh.miraheze.org
+$boost=2,site=wiki.gtnewhorizons.com
