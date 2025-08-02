@@ -10,6 +10,9 @@ $discard,site=*.softonic.com
 $discard,site=*.aptoide.com
 $discard,site=*.apkcombo.com
 $discard,site=*.malavida.com
+$discard,site=downloads.cnet.com
+$discard,site=*.lo4d.com
 
 ! When you search "Can you do X?" and the answer is no but these are sites that say NO but pay us for magic beans or something
 $discard,site=*.playbite.com
+
