@@ -1,18 +1,29 @@
 ! name: SEO abusers - Reuploaders or ads
-! description: Remove some shitty download sites and similar
+! description: Remove sites that reupload software while adding ads or outdated versions, will boost original.
 ! public: true
 ! author: LinxESP
 ! avatar: #ea3e0f
+! homepage: https://github.com/Linx-ESP/program-configs
+! issues: https://github.com/Linx-ESP/program-configs/issues
+! license: GNU AGPL-3.0
+
+! Original sites. Not a recommendation of the software itself.
+! MKVcleaver, mkvtoolnix GUI
+$boost=4,site=sapib.ca 
 
 ! Bad reuploaders
-$discard,site=*.uptodown.com
-$discard,site=*.softonic.com
-$discard,site=*.aptoide.com
-$discard,site=*.apkcombo.com
-$discard,site=*.malavida.com
+$discard,site=uptodown.com
+$discard,site=softonic.com
+$discard,site=softpedia.com
+$discard,site=aptoide.com
+$discard,site=apkcombo.com
+$discard,site=malavida.com
 $discard,site=downloads.cnet.com
-$discard,site=*.lo4d.com
+$discard,site=lo4d.com
+$discard,site=soft32.com
 
-! When you search "Can you do X?" and the answer is no but these are sites that say NO but pay us for magic beans or something
-$discard,site=*.playbite.com
+! When you search "Can you do X?" and the answer is no, these sites will say yes with our paid fake software.  
+! Included because they appear as offering downloads for software that doesn't exist
+$discard,site=playbite.com
+
 
