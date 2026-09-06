@@ -1,0 +1,35 @@
+# LG blocking https://forum.level1techs.com/t/lg-tv-block-mini-how-to/255178
+# LG: OTA updates
+||snu.lge.com^
+||su.lge.com^
+||su-ssl.lge.com^
+||nsu.lge.com^
+||snu-dev.lge.com^
+||su-dev.lge.com^
+||su-ssl-dev.lge.com^
+||nsu-dev.lge.com^
+# LG SDX Telemetry
+||nextlgsdp.com^
+||ibs.nextlgsdp.com^
+||ibsstat.nextlgsdp.com^
+||lgtvcommon.com^
+||lgshopsvc.lgappstv.com^ # LG Shop
+||tv.wiselg.com^ # Wise account / budy
+||lggalleryplus.com^ # LG Gallery
+# LG Ads
+||lgsmartad.com^
+||info.lgsmartad.com^
+# ThinQ / IoT
+||lgtviot.com^
+||lgthinq.com^
+# AI
+||ngfts.lge.com^
+||qt2-ngfts.lge.com^
+||kic-ngfts.lge.com^
+||kic-qt2-ngfts.lge.com^
+# Crash analytics
+||rdx2.nextlgsdp.com^
+||rdl.lgtvcommon.com^
+# Voice
+||nextlgsdp.com^
+||lgsmartweb.com^
