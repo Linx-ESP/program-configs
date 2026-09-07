@@ -1,0 +1,2 @@
+||lgappstv.com^ # Content store + app install
+||lgtvsdp.com^ # Breaks store and maybe homebrew "lgappupdateblocker" mechanism
