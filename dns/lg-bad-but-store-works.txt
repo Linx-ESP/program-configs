@@ -33,3 +33,12 @@
 # Voice
 ||nextlgsdp.com^
 ||lgsmartweb.com^
+
+# From Gamers Nexus video https://www.youtube.com/watch?v=6IFVTcM28KA&t=1200s
+||aic.api.adts.lgtvcommon.com^ # Ad-tracking heartbeat
+||aic.cdpbeacon.lgtvcommon.com^ # Customer Data platform beacon
+||aic.cdpsvc.lgtvcommon.com^ # CDP content/profile
+||aic.cdplauncher.lgtvcommon.com^ # CDP content/profile
+||lgsmartad.com^ # Ads
+||ueiwsp.com^
+||discovery.meethue.com^ # Philips discovery endpoint
